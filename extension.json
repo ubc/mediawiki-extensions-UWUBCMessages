@@ -1,0 +1,26 @@
+{
+    "name": "Upload Wizard UBC Messages",
+    "version": "0.0.1",
+    "author": [
+        "Pan Luo"
+    ],
+    "MessagesDirs": {
+        "UploadWizardUBCMessages": [
+            "i18n"
+        ]
+    },
+    "ResourceModules": {
+        "ext.UWUBCMessages": {
+            "messages": [
+                "mwe-upwiz-license-cc-by-2.5-ca",
+                "mwe-upwiz-license-cc-by-sa-2.5-ca",
+                "mwe-upwiz-license-cr-cdn-gov",
+                "mwe-upwiz-license-cdngov-head",
+                "mwe-upwiz-license-cr-cdn-exp-head",
+                "mwe-upwiz-license-cr-cdn-exp",
+                "mwe-upwiz-license-ubc-head",
+                "mwe-upwiz-license-cr-ubc"
+            ]
+        }
+    }
+}
