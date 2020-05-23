@@ -19,7 +19,10 @@
                 "mwe-upwiz-license-cr-cdn-exp-head",
                 "mwe-upwiz-license-cr-cdn-exp",
                 "mwe-upwiz-license-ubc-head",
-                "mwe-upwiz-license-cr-ubc"
+                "mwe-upwiz-license-cr-ubc",
+                "mwe-upwiz-license-cc-by-nc-sa-4.0",
+                "mwe-upwiz-source-ownwork-assert-cc-by-nc-sa-4.0",
+                "mwe-upwiz-source-ownwork-cc-by-nc-sa-4.0-explain"
             ]
         }
     }
