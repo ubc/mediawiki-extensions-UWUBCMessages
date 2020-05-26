@@ -11,6 +11,11 @@
     },
     "ResourceModules": {
         "ext.UWUBCMessages": {
+            "localBasePath": "",
+            "remoteExtPath": "UWUBCMessages",
+            "styles": [
+                "ubcmessages.css"
+            ],
             "messages": [
                 "mwe-upwiz-license-cc-by-2.0",
                 "mwe-upwiz-license-cc-by-2.5-ca",
