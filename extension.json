@@ -12,7 +12,9 @@
     "ResourceModules": {
         "ext.UWUBCMessages": {
             "messages": [
+                "mwe-upwiz-license-cc-by-2.0",
                 "mwe-upwiz-license-cc-by-2.5-ca",
+                "mwe-upwiz-license-cc-by-sa-2.0",
                 "mwe-upwiz-license-cc-by-sa-2.5-ca",
                 "mwe-upwiz-license-cr-cdn-gov",
                 "mwe-upwiz-license-cdngov-head",
@@ -20,7 +22,16 @@
                 "mwe-upwiz-license-cr-cdn-exp",
                 "mwe-upwiz-license-ubc-head",
                 "mwe-upwiz-license-cr-ubc",
+                "mwe-upwiz-license-cc-by-nc-4.0",
+                "mwe-upwiz-license-cc-by-nc-3.0",
+                "mwe-upwiz-license-cc-by-nc-2.5-ca",
+                "mwe-upwiz-license-cc-by-nc-2.5",
+                "mwe-upwiz-license-cc-by-nc-2.0",
                 "mwe-upwiz-license-cc-by-nc-sa-4.0",
+                "mwe-upwiz-license-cc-by-nc-sa-3.0",
+                "mwe-upwiz-license-cc-by-nc-sa-2.5-ca",
+                "mwe-upwiz-license-cc-by-nc-sa-2.5",
+                "mwe-upwiz-license-cc-by-nc-sa-2.0",
                 "mwe-upwiz-source-ownwork-assert-cc-by-nc-sa-4.0",
                 "mwe-upwiz-source-ownwork-cc-by-nc-sa-4.0-explain"
             ]
